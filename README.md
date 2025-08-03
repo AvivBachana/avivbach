@@ -1,6 +1,6 @@
 # avivbach
 
-https://github.com/AvivBachana/avivbach.git
+https://avivbachana.github.io/avivbach/
 
 
 This is tthe website of Aviv Bachana.
